@@ -1,0 +1,7 @@
+.image-container {
+    display: flex;
+}
+
+.image-container img {
+    margin-right: 10px; /* Espacio entre las imágenes */
+}
